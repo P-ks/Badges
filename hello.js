@@ -1,1 +1,1 @@
-console.log("New pull request")
+const pair  = "paired badge";
